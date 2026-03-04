@@ -106,22 +106,21 @@ npm install
 npm start
 ```
 
-Frontend runs by default on:
-
-```
-http://localhost:3000
-```
 
 ---
+<img width="712" height="735" alt="Screenshot 2025-10-26 200602" src="https://github.com/user-attachments/assets/29ec5c54-1d39-4632-a951-4fcbf0e2c9c2" />
 
 ### 4. Access the Application
 
 Once both servers are running:
 👉 Open [http://localhost:3000](http://localhost:3000)
 
-You can now:
+You can n<img width="772" height="380" alt="Screenshot 2026-03-04 185758" src="https://github.com/user-attachments/assets/b6c0f1cc-4aa2-4474-b4cd-d0d1b8e280d8" />
+ow:<img width="756" height="367" alt="Screenshot 2026-03-04 185813" src="https://github.com/user-attachments/assets/4d68b3b6-78b5-4746-87b6-15786cce55b8" />
 
-* Create an account or login
+
+* C<img width="756" height="506" alt="Screenshot 2026-03-04 185828" src="https://github.com/user-attachments/assets/59c10d98-1257-4d70-87ae-8d75121c511d" />
+reate an account or login
 * Build and generate your resume
 * Upload and manage resumes
 
